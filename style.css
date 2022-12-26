@@ -1,0 +1,97 @@
+*{margin:0px;
+padding:0px;
+font-family:verdana;
+box-sizing:border-box;}
+
+
+header div p{
+            font-size:2em;
+            padding-left:100px;
+
+}
+.headl{float:left;
+          padding:10px 0px;}
+.headr{float:right;
+       padding:25px 130px 10px 0px;
+       font-size:0.85em;
+       color:#5eabfd; 
+       }
+div.headr a,div.headr a img{margin:0px 8px}       
+
+.headr img {
+     width:20px;}
+
+hr{  clear:both;
+      border:0;    
+    width:100%;
+    height:5px;
+    background:#e1c355;
+    }
+nav{clear:both;
+    height:50px;
+     width:100%;
+          
+    background-color:rgb(24,66,104);
+    
+    } 
+.nav a {text-decoration:none;
+        color:white;
+        margin:10px 0px 0px 25px; 
+        font-size:0.85em;
+    }
+    .nav{padding:12px 0px 0px 100px ;}
+    
+    .contm{width:100%;
+    	                   
+    	                   
+    	                   display:flex;
+    	                   flex-direction:row;
+    	                   
+           }
+    
+    .cont1{width:22%;
+           height:170vh;
+           
+           display:flex;
+           flex-direction:column;
+           justify-content:space-between;
+           margin-left:100px;}
+           
+     .itm{border:1px solid black;
+     background-color:red;
+      font-size:0.9em; 
+      }  
+     
+     .cont2{width:44%;
+                height:170vh;
+                
+                display:flex;
+                flex-direction:column;
+                justify-content:space-between;
+           margin-left:30px;}
+           
+           .cont3{width:22%;
+	                   height:170vh;
+	                   
+	                   display:flex;
+	                   flex-direction:column;
+	                   justify-content:space-between;
+           margin-left:30px;}
+           
+ .foot1{
+         height:350px;
+            background-color:#184268;
+            width:100%;
+	        	                   
+	      
+	       display:flex;
+	        	                   flex-direction:row;
+	        	                   
+           }
+   
+ .foot2 {height:60px;
+ 
+           background-color:#022b57;}
+           
+ .foot1 a{text-decoration:none;
+    color:#c0c094;}    
